@@ -35,17 +35,13 @@
           I also have a hobby, I am a BROW-master. <br />
           Open to new acquaintances and cooperation.
           <img
-            src="https://psv4.userapi.com/c505536/u115194513/docs/d28/9c2408e3b6dc/1969FCE5-70D0-4EB0-8ACD-7C52801D7C85.png?extra=qMY9e-kh1hMMWEqDryQ6hLMxtxdNNwTQMNu9uV3e0tcCWnzppgol0xnkTGbFqv8_pjVg5GT9TiJPRwFBK_UxGZOF4nWqOAKR0MzRJ85OgAoSusGxvewtFodcqAfeWWw8A_U4gkZq-FHkH42Qkyltm2Ig"
-            width="40px"
+            src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/1969FCE5-70D0-4EB0-8ACD-7C52801D7C85.png?raw=true"
+            width="60px"
           />
         </p>
       </div>
     </div>
 <div>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
   
