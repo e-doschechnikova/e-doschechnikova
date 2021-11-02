@@ -51,14 +51,14 @@
 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
-##### Programming Languages
+##### programming languages
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/>
 
-##### Design
+##### design
 
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/>
@@ -66,7 +66,7 @@
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
 
-##### Office
+##### office
 
 <img alr="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
 <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
@@ -76,7 +76,9 @@
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 
 <div/>
-
+  
+##### my activity
+  
 <!--START_SECTION:waka-->
 ```text
 HTML         5 hrs 28 mins   ████████████░░░░░░░░░░░░░   48.60 % 
