@@ -76,3 +76,7 @@
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 
 <div/>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
