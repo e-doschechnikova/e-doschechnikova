@@ -1,4 +1,4 @@
-## hello! I am Evgeniya <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/.github/workflows/hello.png?raw=true" width="75px">![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
+## hello! I am Evgeniya <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/hello.png?raw=true" width="75px">![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
 
 <div align="center">
 
