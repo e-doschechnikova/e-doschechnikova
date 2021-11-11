@@ -1,4 +1,4 @@
-## hello! I am Evgeniya <img src="https://psv4.userapi.com/c505536/u115194513/docs/d13/667e37e6c74f/E66BC111-D04F-4814-98C8-4057C5E138D0.png?extra=mlLsjQFpw8dtJKdz_FgvC5XBeqyX7TKgmfsH96HpsJtApGXzDywTsNgJ8U25XXHMv-PBaSN7jlrbRyvBqM0kgtIt5jHUOJy4NgJ5noPUMEr4ukpMVsNrKDe4ctgK4g9qx7lDq7_q0AIcBBetZ_VA5pg" width="75px">![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
+## hello! I am Evgeniya <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/.github/workflows/hello.png?raw=true" width="75px">![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
 
 <div align="center">
 
