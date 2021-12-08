@@ -4,7 +4,7 @@
 
 ##### Connect with me:
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/e-doschechnikova/">
 <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/jjensnow/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"/></a>
