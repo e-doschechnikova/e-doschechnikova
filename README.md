@@ -68,8 +68,8 @@
 
 ##### office
 
-<img alr="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
 <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img alr="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
 <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white"/>
 <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"/>
 <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
