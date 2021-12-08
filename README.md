@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/e-doschechnikova/">
 <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/jjensnow/">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/jjensnow">
 <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/drobakova_ev">
