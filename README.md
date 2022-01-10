@@ -2,50 +2,28 @@
 
 <div align="center">
 
-##### Connect with me:
 
+<div/>
+  <br>
+  <br>
+ <div>
+        <p style="text-align: right">
+       I am currently a Front-End Developer (specialization
+HTML / CSS developer). <br> I am learning JavaScript.
+          
+##### Connect with me:
 <a href="https://www.linkedin.com/in/e-doschechnikova/">
 <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/jjensnow/">
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/jjensnow">
-<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/drobakova_ev">
-<img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
-<div/>
-  
-<div align='center'>
-      <div>
-        <img
-          align="left"
-          width="400"
-          height="340"
-          src="https://i.ibb.co/6nZjQvc/IMG-5345-removebg-preview.png"
-        />
-      </div>
-      <div style="align-self: center">
-        <br>
-        <br>
-        <br>
-        <br>
-        <p style="text-align: right">
-          I am currently studying HTML,<br />
-          CSS, JavaScript. I love the aesthetics of work.<br />
-          Purposeful people inspire me.<br />
-          I also have a hobby, I am a BROW-master. <br />
-          Open to new acquaintances and cooperation.
+<img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a> <br>
+          <br>
           <img
             src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/1969FCE5-70D0-4EB0-8ACD-7C52801D7C85.png?raw=true"
             width="60px"
           />
         </p>
       </div>
-    </div>
 <div>
-<br>
-<br>
-<br>
-<br>
   
 ##### IDE's
 
