@@ -63,9 +63,9 @@ HTML / CSS developer). <br> I am learning JavaScript.
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 36 mins   ███████████████████░░░░░░   75.45 % 
-CSS          1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-HTML         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript   10 hrs 15 mins  ███████████████████▒░░░░░   76.89 % 
+CSS          1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+HTML         1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
