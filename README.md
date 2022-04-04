@@ -12,8 +12,8 @@
 <div/>
  <div>
         <p style="text-align: right">
-       I am currently a Front-End Developer (specialization
-HTML / CSS developer). <br> I am learning JavaScript.
+       I am currently a front-end developer. 
+           <br> Open to new acquaintances and communication. .
           
 ##### Connect with me:
 <a href="https://www.linkedin.com/in/e-doschechnikova/">
