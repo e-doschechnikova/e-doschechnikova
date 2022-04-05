@@ -2,7 +2,7 @@
 <br>
 <br>
 <img align="left"
-            src="https://i.pinimg.com/564x/76/cc/09/76cc0984c6fd35c4b89515ca872419fb.jpg"
+            src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/main.jpg?raw=true"
             width="437px"
           />
 
