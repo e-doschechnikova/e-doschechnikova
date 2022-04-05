@@ -25,18 +25,19 @@
      </br>
    
    <div align="left">
+            
    ##### IDE's
 
 <img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-
-##### programming languages
+  
+   ##### programming languages
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
 <img  align="left"alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 <img  align="left"src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/>
 
-##### design #####
+   ##### design
 
 <img align="left" alt="Adobe" src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"/>
 <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/>
@@ -44,9 +45,10 @@
 <img align="left" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
 <img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
 
-  
-##### my activity
-  
+   ##### my activity
+ 
+              </div>
+            
 <!--START_SECTION:waka-->
 
 ```text
@@ -58,4 +60,4 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-   </div>
+ 
