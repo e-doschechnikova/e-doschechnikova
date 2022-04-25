@@ -10,7 +10,7 @@
     </br>
      </br>
         <p style="text-align: right">
-       I am currently a front-end developer. 
+       I am currently learning React. 
            <br> Open to new acquaintances and communication. </p>
   <div>
             
@@ -33,8 +33,7 @@
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
-<img align="left"alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
-<img align="left"src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/> <br>
+<img align="left"alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"> <br>
 </div>
 <div align="left">
             
