@@ -27,15 +27,22 @@
             
    #### IDE's
 
-<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> <br>
+<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img align="left" alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black"> <br>
             
    ### programming languages
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white">
+<img align=""left alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">  
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
 <img align="left"alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"> <br>
 </div>
 <div align="left">
+
+   ### frameworks and libraries
+   
+   <img align="left" alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
+   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"> 
             
    ### design
 
