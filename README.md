@@ -42,7 +42,7 @@
    ### frameworks and libraries
    
    <img align="left" alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
-   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"> 
+   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"> <br>
             
    ### design
 
