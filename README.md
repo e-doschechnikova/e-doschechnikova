@@ -1,10 +1,8 @@
-## hello! I am Evgeniya <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/hello.png?raw=true" width="75px">![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
-<br>
-<br>
-<img align="left"
-            src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/main.jpg?raw=true"
-            width="480px"
-          />
+<div align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
+</div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
 
  <div align="center">
     </br>
@@ -41,13 +39,16 @@
 
    ### frameworks and libraries
    
-   <img align="left" alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
-   <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"> <br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootsrap" width="40" height="40"/>
             
    ### design
 
 <img align="left" alt="Adobe" src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"/>
-<img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 <img align="left" alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" />
 <img align="left" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
 <img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" /> <br>
