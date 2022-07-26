@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/> 
 </div>
 
 #### about me
