@@ -4,7 +4,7 @@
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/e-doschechnikova/">
-<img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 <a href="https://instagram.com/drobakova_ev">
 <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
 
@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="TS" width="40" height="40"/>
+<img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" title="TypeScript" alt="TS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
 
 ### frameworks, platforms and libraries
