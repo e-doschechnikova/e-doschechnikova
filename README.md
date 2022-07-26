@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=pink)
 </div>
 
-#### Connect with me:
+#### about me
+Connect with me:
 <a href="https://www.linkedin.com/in/e-doschechnikova/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 <a href="https://instagram.com/drobakova_ev">
-<img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Instagram.png?raw=true" width="40" height="40"/></a>
 
 <div align="center">
 
