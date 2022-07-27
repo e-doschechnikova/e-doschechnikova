@@ -56,7 +56,7 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
   
-### my activity
+## MY ACTIVITY
 
  <div align="center">
  <a href="https://www.codewars.com/users/e-doschechnikova/badges/large">
@@ -78,9 +78,15 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
              width="41%"/>
     </a>
 </div>
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-doschechnikova&theme=soft-green&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000)](https://git.io/streak-stats) 
- <br>
+   
+   <div align="center">
+    <a href="https://skyline.github.com/e-doschechnikova/2022">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-doschechnikova&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
+             title="e-doschechnikova" 
+             alt="e-doschechnikova"
+             width="60%"/>
+    </a>
+</div>
           
 <!--START_SECTION:waka-->
 
