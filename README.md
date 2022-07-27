@@ -7,11 +7,11 @@
 I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 
 <div align="center"> 📩 contact with me:
+ <a href="https://t.me/drobakova_ev">
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Telegram.png?raw=true" width="20" height="20"/></a>
 <a href="https://www.linkedin.com/in/e-doschechnikova/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>
 <a href="https://instagram.com/drobakova_ev">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Instagram.png?raw=true" width="20" height="20"/></a> 
-<a href="https://t.me/drobakova_ev">
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Telegram.png?raw=true" width="20" height="20"/></a>
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=green) </div>
 
