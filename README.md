@@ -48,11 +48,11 @@ Connect with me:
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Lightroom.png" title="AdobeLightroom" alt="AdobeLightroom" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
-
+  
 ### my activity
-
-
-            
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-doschechnikova&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
+          
 <!--START_SECTION:waka-->
 
 ```text
