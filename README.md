@@ -10,6 +10,8 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 <a href="https://www.linkedin.com/in/e-doschechnikova/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>
 <a href="https://instagram.com/drobakova_ev">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Instagram.png?raw=true" width="20" height="20"/></a> 
+<a href="https://t.me/drobakova_ev">
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Instagram.png?raw=true" width="20" height="20"/></a>
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=green) </div>
 
@@ -23,6 +25,7 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 ### programming languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  
 <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" title="TypeScript" alt="TS" width="40" height="40"/>
