@@ -57,10 +57,30 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
   
 ### my activity
+
+ <div align="center">
+ <a href="https://www.codewars.com/users/e-doschechnikova/badges/large">
+ <img src="https://www.codewars.com/users/e-doschechnikova/badges/large" title="CodeWars" alt="CodeWars"/>
+ <a/>
+ </div> <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-doschechnikova&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-doschechnikova&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
+<div align="center">
+  <a href="https://github.com/e-doschechnikova?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=e-doschechnikova&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
+             title="e-doschechnikova github repositories" 
+             alt="e-doschechnikova github stats"
+             width="49%"/>
+    </a>
+  <a href="https://github.com/e-doschechnikova?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-doschechnikova&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
+             title="e-doschechnikova github repositories"
+             alt="e-doschechnikova github stats"
+             width="41%"/>
+    </a>
+</div>
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-doschechnikova&theme=soft-green&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000)](https://git.io/streak-stats) 
+ <br>
           
 <!--START_SECTION:waka-->
 
