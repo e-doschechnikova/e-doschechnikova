@@ -58,6 +58,8 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
   
 ### my activity
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-doschechnikova&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-doschechnikova&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
           
 <!--START_SECTION:waka-->
