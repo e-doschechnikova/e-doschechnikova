@@ -24,9 +24,9 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
             
 ### programming languages
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  
 <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" title="TypeScript" alt="TS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
@@ -38,9 +38,6 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"  title="Yarn" alt="yarn" width="40" height="40"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
@@ -49,7 +46,6 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
    ### design
 
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe.png" title="Adobe" alt="Adobe" width="40" height="40"/>
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Creative%20Cloud.png?raw=true" title="AdobeCreativeCloud." alt="AdobeCreativeCloud." width="40" height="40"/>
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Illustrator.png" title="AdobeIllustrator" alt="AdobeIllustrator" width="40" height="40">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Lightroom.png" title="AdobeLightroom" alt="AdobeLightroom" width="40" height="40" />
