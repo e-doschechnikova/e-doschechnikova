@@ -87,7 +87,7 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 9 mins    █████████████████████████   100.00 %
+TypeScript   2 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
