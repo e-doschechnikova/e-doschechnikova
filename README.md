@@ -3,7 +3,7 @@
 </div>
 
 #### 🥑 about me:
-<p> my name is Evgeniya and I'm a junior React developer. <br>
+<p> my name is Evgeniya and I'm a Front-End Developer. <br>
 I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 
 <div align="center"> 📩 contact with me:
