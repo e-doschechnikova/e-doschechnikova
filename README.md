@@ -87,10 +87,8 @@ I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 22 mins  ███████████████████████▓░   94.21 %
-CSS          31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   7 hrs 59 mins   ███████████████████████▒░   93.85 %
+CSS          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 tsconfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
