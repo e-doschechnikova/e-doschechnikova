@@ -1,95 +1,48 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/> 
-</div>
-
 #### 🥑 about me:
-<p> my name is Evgeniya and I'm a Front-End Developer. <br>
-I live in St. Petersburg. <br> I am currently a student at IT-INCUBATOR.</p>
+<p> my name is Evgeniya and I'm a Front-End Developer <br>
+I live in St. Petersburg</p>
 
-<div align="center"> 📩 contact with me:
+<div align="left"> 📩 contact with me:
  <a href="https://t.me/drobakova_ev">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Telegram.png?raw=true" width="20" height="20"/></a>
 <a href="https://www.linkedin.com/in/e-doschechnikova/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>
 <a href="https://instagram.com/drobakova_ev">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Instagram.png?raw=true" width="20" height="20"/></a> 
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=e-doschechnikova.e-doschechnikova&left_color=black&right_color=green) </div>
+</div>
 
-<div align="center">
+<div align="left">
 
 #### IDE's
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS-Code" alt="VS-Code" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="Webstorm" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS-Code" alt="VS-Code" width="20" height="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="Webstorm" width="20" height="20"/>
             
 ### programming languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"  />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  
-<img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" title="TypeScript" alt="TS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="20" height="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="20" height="20"  />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>  
+<img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" title="TypeScript" alt="TS" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="20" height="20"/>
 
 ### frameworks, platforms and libraries
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  title="React" alt="React" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="20" height="20"/>
  
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="20" height="20"/> 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootsrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MaterialUI" alt="MaterialUI" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootsrap" width="20" height="20"/>
               
    ### design
 
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe.png" title="Adobe" alt="Adobe" width="40" height="40"/>
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Illustrator.png" title="AdobeIllustrator" alt="AdobeIllustrator" width="40" height="40">
-<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Lightroom.png" title="AdobeLightroom" alt="AdobeLightroom" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Photoshop.png" title="Photoshop" alt="Photoshop" width="20" height="20"/>
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Illustrator.png" title="AdobeIllustrator" alt="AdobeIllustrator" width="20" height="20">
+<img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Adobe%20Lightroom.png" title="AdobeLightroom" alt="AdobeLightroom" width="20" height="20" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20" height="20"/> 
   
-## MY ACTIVITY
-
- <div align="center">
- <a href="https://www.codewars.com/users/e-doschechnikova/badges/large">
- <img src="https://www.codewars.com/users/e-doschechnikova/badges/large" title="CodeWars" alt="CodeWars"/>
- <a/>
- </div> <br>
- 
-<div align="center">
-  <a href="https://github.com/e-doschechnikova?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=e-doschechnikova&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
-             title="e-doschechnikova github repositories" 
-             alt="e-doschechnikova github stats"
-             width="49%"/>
-    </a>
-  <a href="https://github.com/e-doschechnikova?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-doschechnikova&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
-             title="e-doschechnikova github repositories"
-             alt="e-doschechnikova github stats"
-             width="41%"/>
-    </a>
-</div>
-   
-   <div align="center">
-    <a href="https://skyline.github.com/e-doschechnikova/2022">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-doschechnikova&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
-             title="e-doschechnikova" 
-             alt="e-doschechnikova"
-             width="60%"/>
-    </a>
-</div>
-          
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
   </div>
