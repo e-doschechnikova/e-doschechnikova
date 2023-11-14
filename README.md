@@ -3,7 +3,7 @@
 I live in St. Petersburg</p>
 
 <div align="left"> 📩 contact with me:
- <a href="https://t.me/drobakova_ev">
+ <a href="https://t.me/e_doschechnikova">
 <img src="https://github.com/e-doschechnikova/e-doschechnikova/blob/main/icons/Telegram.png?raw=true" width="20" height="20"/></a>
 <a href="https://www.linkedin.com/in/e-doschechnikova/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>
 <a href="https://instagram.com/drobakova_ev">
