@@ -1,5 +1,5 @@
 #### 🥑 about me:
-<p> my name is Evgeniya and I'm a Front-End Developer <br>
+<p> my name is Evgeniia and I'm a Front-End Developer <br>
 I live in St. Petersburg</p>
 
 <div align="left"> 📩 contact with me:
