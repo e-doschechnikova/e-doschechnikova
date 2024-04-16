@@ -9,11 +9,6 @@ I live in St. Petersburg</p>
 </div>
 
 <div align="left">
-
-#### IDE's
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS-Code" alt="VS-Code" width="20" height="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="Webstorm" width="20" height="20"/>
             
 ### programming languages
 
